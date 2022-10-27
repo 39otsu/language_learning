@@ -4,7 +4,6 @@ import LinearProgress from '@mui/material/LinearProgress';
 import Navbar from './components/navbar';
 import Footer from './components/footer';
 import { ROUTE_PATHS } from './data/types';
-import './App.css';
 
 const Home = lazy(() => import('./components/home'));
 const Directory = lazy(() => import('./components/directory'));

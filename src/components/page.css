@@ -1,0 +1,10 @@
+body {
+    margin: 0 auto;
+    max-width: 1920px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
